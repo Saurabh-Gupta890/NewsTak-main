@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Saurabh-Gupta890/NewsTak/static/css/main.bff65184.chunk.css",
+    "main.js": "/Saurabh-Gupta890/NewsTak/static/js/main.d44dcabc.chunk.js",
+    "main.js.map": "/Saurabh-Gupta890/NewsTak/static/js/main.d44dcabc.chunk.js.map",
+    "runtime-main.js": "/Saurabh-Gupta890/NewsTak/static/js/runtime-main.4547074d.js",
+    "runtime-main.js.map": "/Saurabh-Gupta890/NewsTak/static/js/runtime-main.4547074d.js.map",
+    "static/js/2.4135a25c.chunk.js": "/Saurabh-Gupta890/NewsTak/static/js/2.4135a25c.chunk.js",
+    "static/js/2.4135a25c.chunk.js.map": "/Saurabh-Gupta890/NewsTak/static/js/2.4135a25c.chunk.js.map",
+    "static/js/3.5170f710.chunk.js": "/Saurabh-Gupta890/NewsTak/static/js/3.5170f710.chunk.js",
+    "static/js/3.5170f710.chunk.js.map": "/Saurabh-Gupta890/NewsTak/static/js/3.5170f710.chunk.js.map",
+    "index.html": "/Saurabh-Gupta890/NewsTak/index.html",
+    "precache-manifest.1f7bbafedf1d35a3c8ccfeacc619b1af.js": "/Saurabh-Gupta890/NewsTak/precache-manifest.1f7bbafedf1d35a3c8ccfeacc619b1af.js",
+    "service-worker.js": "/Saurabh-Gupta890/NewsTak/service-worker.js",
+    "static/css/main.bff65184.chunk.css.map": "/Saurabh-Gupta890/NewsTak/static/css/main.bff65184.chunk.css.map",
+    "static/js/2.4135a25c.chunk.js.LICENSE.txt": "/Saurabh-Gupta890/NewsTak/static/js/2.4135a25c.chunk.js.LICENSE.txt",
+    "static/media/loading.gif": "/Saurabh-Gupta890/NewsTak/static/media/loading.d47e58c7.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4547074d.js",
+    "static/js/2.4135a25c.chunk.js",
+    "static/css/main.bff65184.chunk.css",
+    "static/js/main.d44dcabc.chunk.js"
+  ]
+}
